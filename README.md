@@ -1,4 +1,11 @@
 # R_Parsing_
+
+
+MODULES TO BE REQUIRED TO RUN THE CODE
+pip install docx
+pip install python-docx
+
+
 RULES AND REGULATIONS
 **To parse the resume for the given code. We need to follow these rules  
 
