@@ -1,5 +1,5 @@
 # R_Parsing_
-#RULES AND REGULATIONS
+RULES AND REGULATIONS
 **To parse the resume for the given code. We need to follow these rules  
 
 Resume should be pdf or docx only. 
