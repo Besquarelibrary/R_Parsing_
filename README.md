@@ -20,3 +20,5 @@ Headings can be in Bold, Pascal case, Capital case, Underline and effects like (
 Bugs to be solved 
 
 Headings in resume with capital case along with shadow effects should be extracted. **
+Headings to be extracted when it's font size is same as the content font size(Idea is to extract the titles when that have the tabspace as well)
+
